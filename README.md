@@ -11,3 +11,12 @@ A repository with some of the projects I made as a computer science student at U
 
 ## Systems for Design and Implementation (MPP)
 ### [Flight Tickets Booking App](https://github.com/BarteS3300/flight-tickets-booking-app-java)
+....
+
+## AI
+....
+
+## Web
+....
+
+## Software Engineering (ISS)
