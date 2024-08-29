@@ -3,5 +3,5 @@ A repository with some of the projects I made as a computer science student at U
 
 ## Advanced Programming Techniques (MAP)
 
-### [Social Madia project(https://github.com/BarteS3300/SocialMedia)]
+### [Social Madia project](https://github.com/BarteS3300/SocialMedia)
 ....
